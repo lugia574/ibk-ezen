@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: #222;
+  text-decoration: none;
+}
+
+button {
+  all: unset;
+  cursor: pointer;
+}
